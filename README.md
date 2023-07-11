@@ -1,3 +1,5 @@
+Hi Elias!!
+
 # Lab: Fun with Functions
 
 ## Problem Domain
